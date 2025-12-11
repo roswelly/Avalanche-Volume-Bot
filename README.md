@@ -8,8 +8,8 @@ https://snowtrace.io/tx/0xd0ee6715cff35c3ec4242dae7e675842329416328cb1ee6a74ef6a
 https://snowtrace.io/tx/0x08827628866570f639410851908e1b1bc84ac20929ad55ccd1d7e04df2b97952
 
 ## contract
-- [Telegram](https://t.me/caterpillardev)
-- [Twitter](https://x.com/caterpillardev)
+- [Telegram](https://t.me/roswellecho)
+- [Twitter](https://x.com/roswellyecho)
 
 ## Features
 
